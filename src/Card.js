@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Card.css';
 
 
 /** Card: renders a single card. */

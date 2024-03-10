@@ -1,0 +1,35 @@
+.Deck {
+     text-align: center;
+}
+
+.Deck-draw {
+     padding: 15px;
+     background-color: black;
+     color: white;
+     border-radius: 8px;
+     border: none;
+     margin: 0 10px;
+}
+
+.Deck-draw:hover {
+     cursor: pointer;
+     background-color: #444;
+}
+
+.Deck-draw:active,
+.Deck-draw:focus {
+     outline: none;
+}
+
+.Deck-cardarea {
+     margin-top: 80px;
+}
+
+.Deck-draw,
+.Deck-shuffle {
+     font-size: 1em;
+     padding: 10px 20px;
+     margin: 50px 10px;
+     border-radius: 8px;
+     border: none;
+}
